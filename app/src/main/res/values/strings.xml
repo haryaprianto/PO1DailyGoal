@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daily Goal</string>
+    <string name="qn1"><b>Read up on materials before class</b> "\n"Did I achieve this goal today?</string>
+    <string name="qn2"><b>Arrive on time so not to miss important part of the lesson</b> "\n"Did I achieve this goal today?</string>
+    <string name="qn3"><b>Attempt the problem myself</b> "\n"Did I achieve this goal today?</string>
+    <string name="qn4"><b>My personal reflection today</b></string>
+
+
+</resources>
